@@ -1,0 +1,20 @@
+.table-footballManager {
+	border-width: 1px; 
+	border-style: solid; 
+	border-color: #ebebeb;
+	width: 80%;
+	margin: 0 10% 0 10%;
+}
+
+
+.table-footballManager td, th {
+	border-width: 1px; 
+ 	border-style: solid; 
+ 	border-color: #ebebeb;
+ 	text-align: center;
+ 	vertical-align: middle;
+}
+
+.table-footballManager th{
+	font-weight: bold;
+}

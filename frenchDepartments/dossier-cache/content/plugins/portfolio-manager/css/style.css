@@ -1,0 +1,42 @@
+#render-portfolio {
+
+}
+
+#render-portfolio .portfolio-container{
+	width:100%;
+	overflow: hidden;
+}
+
+#render-portfolio .portfolio-container .thumb-work{
+	width:90%;
+	float: left;
+	background: #ebebeb;
+	margin: 15px 5% 15px 5%;
+	padding: 7px;
+}
+
+#render-portfolio .portfolio-container .thumb-work .main-picture{
+	max-height: 300px;
+	overflow: hidden;
+}
+
+#render-portfolio .portfolio-container .thumb-work h3{
+	margin: 10px;
+}
+
+#render-portfolio .portfolio-container .thumb-work img{
+	width: 100%;
+	cursor: pointer;
+
+}
+#render-portfolio .portfolio-container .thumb-work .gallery{
+	overflow: hidden;
+	margin-bottom: 15px;
+
+}
+#render-portfolio .portfolio-container .thumb-work .gallery img{
+	float: left;
+	width:15%;
+	margin: 7px 2% 7px 2%;
+	max-height :50px;
+}
