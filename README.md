@@ -17,7 +17,7 @@ LAMP, PHP >=5.3
 Mickaël Andrieu
 Julien Bonvarlet
 Dorian Boussac
-Cécile Desres
+Cécile Desré
 
 ## Running the Tests
 There is no tests.
